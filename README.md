@@ -7,6 +7,6 @@
 - 日別・分野別に合計時間を集計
 
 ## 使用技術
-- Laravel 11
+- Laravel 12
 - PHP 8.4.4
 - MySQL
